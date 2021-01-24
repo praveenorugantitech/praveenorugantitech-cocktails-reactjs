@@ -12,13 +12,13 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/praveenorugantitech-cocktails-reactjs/">
           <Home />
         </Route>
-        <Route path="/about">
+        <Route path="/praveenorugantitech-cocktails-reactjs/about">
           <About />
         </Route>
-        <Route path="/cocktail/:id">
+        <Route path="/praveenorugantitech-cocktails-reactjs/cocktail/:id">
           <SingleCocktail />
         </Route>
         <Route path="*">

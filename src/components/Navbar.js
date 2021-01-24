@@ -5,15 +5,15 @@ export default function Navbar() {
   return (
     <nav className='navbar'>
       <div className='nav-center'>
-        <Link to='/'>
+        <Link to='/praveenorugantitech-cocktails-reactjs'>
           <img src={logo} alt='cocktail db logo' className='logo' />
         </Link>
         <ul className='nav-links'>
           <li>
-            <Link to='/'>home</Link>
+            <Link to='/praveenorugantitech-cocktails-reactjs'>home</Link>
           </li>
           <li>
-            <Link to='/about'>about</Link>
+            <Link to='/praveenorugantitech-cocktails-reactjs/about'>about</Link>
           </li>
         </ul>
       </div>

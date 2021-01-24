@@ -5,7 +5,7 @@
 </div>
 
 
-[Live Demo](https://praveenorugantitech-cocktails.firebaseapp.com/)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-cocktails-reactjs/)
 
 
 
