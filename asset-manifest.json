@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/praveenorugantitech-cocktails-reactjs/static/css/main.0cd882af.chunk.css",
-    "main.js": "/praveenorugantitech-cocktails-reactjs/static/js/main.261ff1f0.chunk.js",
+    "main.js": "/praveenorugantitech-cocktails-reactjs/static/js/main.a9ffa16a.chunk.js",
     "runtime-main.js": "/praveenorugantitech-cocktails-reactjs/static/js/runtime-main.b5dcb2c6.js",
     "static/js/2.c2902b6f.chunk.js": "/praveenorugantitech-cocktails-reactjs/static/js/2.c2902b6f.chunk.js",
     "index.html": "/praveenorugantitech-cocktails-reactjs/index.html",
@@ -12,6 +12,6 @@
     "static/js/runtime-main.b5dcb2c6.js",
     "static/js/2.c2902b6f.chunk.js",
     "static/css/main.0cd882af.chunk.css",
-    "static/js/main.261ff1f0.chunk.js"
+    "static/js/main.a9ffa16a.chunk.js"
   ]
 }
